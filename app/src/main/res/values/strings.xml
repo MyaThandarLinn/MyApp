@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="real_app_id">ca-app-pub-2730100284948437~2246343719</string>
+    <string name="real_app_unit_id">ca-app-pub-2730100284948437/5901575740</string>
+
+<!--    <string name="admob_app_id">ca-app-pub-2730100284948437~2246343719</string>-->
+<!--    <string name="admob_unit_id">ca-app-pub-2730100284948437/5901575740</string>-->
+    <string name="dream_come_true">Make Your Dream Come True</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
